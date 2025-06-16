@@ -38,5 +38,5 @@
 **Task3: Accessing the web Browser**
 1) After the EC2 instance is created and runing access the apache web server on the browser by using the public ip address.
    ``<public ip address>``
-2) Verify that the server display "Hello World" generayted from the user data.
+2) Verify that the server display "Hello World" generated from the user data.
  ![userdata](./image/Hello%20world.PNG)  .
