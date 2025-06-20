@@ -39,4 +39,4 @@
 1) After the EC2 instance is created and runing access the apache web server on the browser by using the public ip address.
    ``<public ip address>``
 2) Verify that the server display "Hello World" generated from the user data.
- ![userdata](./image/Hello%20world.PNG)  .
+ ![userdata](./image/Hello-world.PNG)  .
